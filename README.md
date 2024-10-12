@@ -13,7 +13,7 @@ This is a simple Django application that implements a CRUD API for managing a we
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone <repo-url>
    cd schedule_project
    ```
 
